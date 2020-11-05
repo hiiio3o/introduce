@@ -1,0 +1,18 @@
+/*
+font-family: 'Do Hyeon', sans-serif;
+font-family: 'Noto Sans KR', sans-serif;
+*/
+
+h1, h2, h3, h4, .navbar-brand {
+	font-family: 'Do Hyeon', sans-serif;
+	color:#880E4F; /* 900 색상 */
+}
+
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+	background-color: #F8BBD0; /* 100 색상 */
+}
+
+.navbar {
+	border-bottom: #D81B60 3px solid; /* 600 색상 */
+}
